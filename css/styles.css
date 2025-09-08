@@ -451,8 +451,8 @@ footer p {
     margin: 10px 0;
   }
   nav ul li a:hover {
-    -webkit-text-decoration: underline 2px #e2dbbd;
-            text-decoration: underline 2px #e2dbbd;
+    -webkit-text-decoration: underline 2px #8d001d;
+            text-decoration: underline 2px #8d001d;
   }
   section {
     grid-template-columns: 1fr 1fr;

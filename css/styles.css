@@ -400,7 +400,6 @@ section div {
 }
 
 section h2 {
-  font-size: 1.4 rem;
   margin: 10px 0;
 }
 
@@ -423,7 +422,7 @@ section p {
 }
 
 footer {
-  padding: 1 rem 10px;
+  padding: 0.5rem 10px;
 }
 footer p {
   margin: 0;
